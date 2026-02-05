@@ -8,4 +8,4 @@ order by date_date
 
 DENEME AMAÇLI EKLENEN METİNDİR.
 
-Okan Ozcan
++OKAN OZCAN
